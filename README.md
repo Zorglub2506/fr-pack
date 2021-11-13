@@ -1,4 +1,4 @@
-# fr-pack
+# French police pack
  
 ******************************************
 Disclaimer
